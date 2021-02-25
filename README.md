@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=watersphere1999&label=Profile%20views&color=0e75b6&style=flat" alt="watersphere1999" /> </p>
 
-- 🌱 I’m currently learning **Reactjs**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **lanlin1999123@gmail.com**
 
